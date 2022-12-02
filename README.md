@@ -7,11 +7,10 @@ Estegnografia de mensagem de texto em imagem. App em python.
 
 ## Conceito 
 
-O aplicativo que será desenvolvido se propõe a ser como um banco de dados voltado para acompanhar tanto a consistência, quanto a evolução no treinamento para a corrida de rua de atletas amadores. 
+O interface que será desenvolvida se propõe a ser como um banco de dados voltado para acompanhar tanto a consistência, quanto a evolução no treinamento para a corrida de rua de atletas amadores. 
 	
-O usuário introduz os dados do seu planejamento semanal de corrida, classificando qual o tipo de treino: Regenerativo, Intervalado ou Longo. Nesse sentido, este informa quais treinos foram efetivados ou não, podendo indicar se houve um treino de substituição(um  intervalado trocado por uma rodagem leve, por exemplo, por conta de algum imprevisto).Nesse sentido, é exibido o volume semanal total, bem como o pace médio em cada um dos tipos de treino ao final da semana. Um gráfico seria gerado para termos visualmente a evolução do pace na faixa de tempo desejada, com uma pace de referência se necessário. 
+O usuário introduz seu treino, como por exemplo: corrida longa, treino de perna ou treino de costas. Após isso o usuário pode também adicionar características do treino a serem cumpridas. Nesse sentido, de forma gráfica, a atividade pode ser adicionada, podendo ser marcada como completada ou pendente a fim de representar ao usuário a evolução do treino além de servir como lembrete do que deve ser feito, auxiliando no controle do volume de treino do usuário.
 
-Além disso, por uma questão de organização e otimização do acesso à informação, teríamos também um espaço no qual o corredor armazenaria as informações dos testes realizados, como, por exemplo, o teste dos 30 minutos ou o teste dos 3km. Ao consultarmos esse arquivo, uma interface exibe a evolução do atleta em cada tipo de teste à medida que estes forem atualizados. 
 
 ## Função 
 
@@ -19,7 +18,7 @@ A função do aplicativo proposto é ajudar a gerenciar a evolução do atleta a
 
 ## Motivação
 
-A motivação para o desenvolvimento desse aplicativo vem da dificuldade de controle do quão fiel a rotina de treinos o atleta amador vem sendo e a maneira que isso interfere em sua performance. Além disso, a nível de montagem da planilha de treino, ter o resultado dos testes, de modo prático e organizado, é essencial para o treinador.
+A motivação para o desenvolvimento desse aplicativo vem da dificuldade de controle do quão fiel a rotina de treinos o atleta amador vem sendo e a maneira que isso interfere em sua performance. Além disso, a nível de montagem da planilha de treino, ter o resultado dos testes, de modo prático e organizado, é essencial para o treinador. Além disso, a extrema facilidade de acesso a interface devido à necessidade somente de navegador e internet permite que o usuário possa acompanhar seus treinos por diferentes meios.
 
 # Diagrama de Classes e Relacionamentos
 
