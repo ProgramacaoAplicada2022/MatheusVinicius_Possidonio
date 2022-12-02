@@ -30,7 +30,7 @@ A motivação para o desenvolvimento desse aplicativo vem da dificuldade de cont
 
 ## Diagrama de classes:
 
-![image](https://user-images.githubusercontent.com/105819232/205302985-f2b6a5b7-d487-4067-9145-a45dc5354cb9.png)
+![image](https://user-images.githubusercontent.com/115589012/205313049-94f2447f-fa81-4c69-b7d9-368ddde6be17.png)
 
 
 # Repositório do Projeto
