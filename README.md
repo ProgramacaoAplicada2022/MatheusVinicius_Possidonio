@@ -3,7 +3,7 @@
 
 # Proposta do Projeto:
 
-Estegnografia de mensagem de texto em imagem. App em python.
+Interface de acompanhamento de treinos no estilo planner. Interface em Javascript em browser por intermédio de acesso à internet.
 
 ## Conceito 
 
