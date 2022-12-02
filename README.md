@@ -37,6 +37,13 @@ Note que no fluxograma há uma divisão bem clara entre dois processos do aplica
 
 ![image](https://user-images.githubusercontent.com/115589012/205313049-94f2447f-fa81-4c69-b7d9-368ddde6be17.png)
 
+Note que no Diagrama de Classes há uma divisão bem clara entre dois processos do aplicativo:
+
+1) Fase de Auth: Responsável por descrever as funções específicas para a realização do login, cadastro e logout. 
+
+2) Fase de Add Todo: Responsável pela parte de adicionar o treino desejado, com sua respectiva descrição. 
+
+3)Fase de ToDoList: Responsável por gerenciar quais atividade estão concluídas ou não, bem como recarregar a lista de tarefas. 
 
 # Repositório do Projeto
 
