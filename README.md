@@ -48,6 +48,8 @@ https://nodejs.org/dist/v18.12.1/node-v18.12.1-x64.msi
 
 Para verificar se foi instalado corretamente, rode "node -v" no terminal, onde deverá responder a versão instalada.
 
+Além do acesso internet, tem-se como pré-requisito possuir uma conta do google para fazer login na aplicação.
+
 ## Instalando a Biblioteca
 O Node.js vem com um administrador de pacotes (npm), através do qual consegue baixar bibliotecas e suas dependências.
 Para instalar o Next.js, apenas caso esteja criando um novo projeto, basta escrever (no prompt de comando) na pasta em que deseja desenvolver seu aplicativo:
@@ -61,6 +63,31 @@ Para códigos já prontos, para obter todas bibliotecas utilizadas, basta escrev
 Ao rodar, um dos códigos acima, perceberá uma pasta "node_modules", onde estão armazenadas todas bibliotecas instaladas.
 
 # Esboço GUI Projeto
+
+A página inicial da interface é dada por:
+![image](https://user-images.githubusercontent.com/105819232/205304282-3a300b5d-95a8-46af-b1ea-dcf1ddd341e8.png)
+
+
+Para fazer o Login, basta clicar em "Login with Google", no canto superior direito, utilizando uma extensão do google, já descrita no código, dessa forma, basta somente logar com a conta do google:
+![image](https://user-images.githubusercontent.com/105819232/205304568-51ccc712-5fe9-4392-9a4d-cc3088894a0a.png)
+
+
+Aparecerá uma aba na qual o usuário pode fazer login com uma de suas contas google, ou até mesmo criar uma:
+![image](https://user-images.githubusercontent.com/105819232/205305193-02e1f361-a44c-4f26-878d-2c315ab1124e.png)
+
+Após logado, o usuário pode adicionar um treino e uma descrição, bastando descrever o treino e a descrição nas áreas para eles indicadas, escolher a opção de andamendo do treino, se ele será "pendente" ou "completado" e clicar em adicionar treino, de maneira respectiva aos espaços, de cima para baixo:
+![image](https://user-images.githubusercontent.com/105819232/205305598-57d6bee1-a4a4-49dd-8603-77619525af2d.png)
+
+O treino será adicionado como PENDENTE e aparecerá uma mensagem indicando que o treino foi adicionado:
+![image](https://user-images.githubusercontent.com/105819232/205305753-d2cd4103-e081-4b56-847d-ba0d2da5622b.png)
+
+O treino também pode ser marcado como completado, aparecendo uma mensagem indicando que o treino foi completado, bastando clicar na alavanca gráfica localizada ao lado de "pendente", podendo também desmarcar a opção de completado desativando a mesma alavanca:
+![image](https://user-images.githubusercontent.com/105819232/205306305-b03596bf-0d1c-4617-8a06-22495f103891.png)
+
+
+
+
+
 
 # Rodando o código:
 1- Caso não tenha feito, baixe as bibliotecas necessárias, rodando no terminal, na pasta "App":
