@@ -53,12 +53,14 @@ Ao rodar, um dos códigos acima, perceberá uma pasta "node_modules", onde estã
 # Esboço GUI Projeto
 
 # Rodando o código:
-  1- Caso não tenha feito, baixe as bibliotecas necessárias, rodando no terminal, na pasta "App":
+1- Caso não tenha feito, baixe as bibliotecas necessárias, rodando no terminal, na pasta "App":
 > npm install
-  2- Iniciar o servidor Next.js:
-> npm run dev
-  3- No terminal, será apresentado o "url" para acessar o aplicativo. Normalmente é "http://localhost:3000".
 
-  4- Acesse o URL, utilizando algum Browser ou interpretador. Ex: Chrome.
+2- Iniciar o servidor Next.js:
+> npm run dev
   
-  5- Como aplicativo utiliza armazenamento na nuvem e para realizar o login e poder utilizar o aplicativo é necessário ter acesso a internet (serviço do Firebase).
+3- No terminal, será apresentado o "url" para acessar o aplicativo. Normalmente é "http://localhost:3000".
+
+4- Acesse o URL, utilizando algum Browser ou interpretador. Ex: Chrome.
+  
+5- Como aplicativo utiliza armazenamento na nuvem e para realizar o login e poder utilizar o aplicativo é necessário ter acesso a internet (serviço do Firebase).
