@@ -43,7 +43,7 @@ Note que no Diagrama de Classes há uma divisão bem clara entre dois processos 
 
 2) Fase de Add Todo: Responsável pela parte de adicionar o treino desejado, com sua respectiva descrição. 
 
-3)Fase de ToDoList: Responsável por gerenciar quais atividade estão concluídas ou não, bem como recarregar a lista de tarefas. 
+3) Fase de ToDoList: Responsável por gerenciar quais atividade estão concluídas ou não, bem como recarregar a lista de tarefas. 
 
 # Repositório do Projeto
 
