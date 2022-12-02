@@ -54,9 +54,9 @@ Ao rodar, um dos códigos acima, perceberá uma pasta "node_modules", onde estã
 
 # Rodando o código:
   1- Caso não tenha feito, baixe as bibliotecas necessárias, rodando no terminal, na pasta "App":
-	> npm install
+> npm install
   2- Iniciar o servidor Next.js:
-  	> npm run dev
+> npm run dev
   3- No terminal, será apresentado o "url" para acessar o aplicativo. Normalmente é "http://localhost:3000".
 
   4- Acesse o URL, utilizando algum Browser ou interpretador. Ex: Chrome.
