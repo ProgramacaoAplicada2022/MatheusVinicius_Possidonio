@@ -25,7 +25,7 @@ A motivação para o desenvolvimento desse aplicativo vem da dificuldade de cont
 
 ## Fluxograma:
 
-![image](https://user-images.githubusercontent.com/105819232/205303050-a57f3cad-8223-42ca-9ffc-38699e86cc65.png)
+![image](https://user-images.githubusercontent.com/115589012/205313477-4ddd47b9-57c7-40ea-9596-474358333ab6.png)
 
 
 ## Diagrama de classes:
