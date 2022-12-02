@@ -1,5 +1,5 @@
 # Repositorio do TODO App
-# Mestre Possi e Corno Vini
+# Matheus Vinicius e Possidonio
 
 # Proposta do Projeto:
 
