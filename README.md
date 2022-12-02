@@ -14,7 +14,8 @@ O usuário introduz seu treino, como por exemplo: corrida longa, treino de perna
 
 ## Função 
 
-A função do aplicativo proposto é ajudar a gerenciar a evolução do atleta amador de corrida de rua. Por meio de ilustrações gráficas, é possível acompanharmos tanto a frequência e assiduidade nos treinos, quanto a maneira como os resultados deles se comportam. 
+A função do aplicativo proposto é ajudar a gerenciar a evolução do atleta amador de corrida de rua. Por meio de interfaces gráficas o usuário pode acompanhar seus treinos pendentes e completos de maneira a auxiliar no controle de treino.
+
 
 ## Motivação
 
