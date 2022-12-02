@@ -1,5 +1,5 @@
-# Steganographer_v1
-# Cap William e Ten Adrian
+# Repositorio do TODO App
+# Mestre Possi e Corno Vini
 
 # Proposta do Projeto:
 
@@ -20,10 +20,15 @@ A função do aplicativo proposto é ajudar a gerenciar a evolução do atleta a
 ## Motivação
 
 A motivação para o desenvolvimento desse aplicativo vem da dificuldade de controle do quão fiel a rotina de treinos o atleta amador vem sendo e a maneira que isso interfere em sua performance. Além disso, a nível de montagem da planilha de treino, ter o resultado dos testes, de modo prático e organizado, é essencial para o treinador.
+
 # Diagrama de Classes e Relacionamentos
 
+# Repositório do Projeto
+
+É este que se encontra :)
+
 # Biblioteca Gráfica
-Para realizar esse objetivo, foi utilizado um framework do Javascript, chamado de Next.js. Através dele, é possível criar o frontend e backend de um site de forma intuitiva e rápida, servindo de interface para usuários poderem acompanhar. 
+Para realizar esse objetivo, foi utilizado um framework do Javascript, chamado de Next.js. Através dele, é possível criar o frontend e backend de um site de forma intuitiva e rápida, servindo de interface para usuários poderem acompanhar. Na prática, ele gera HTML, CSS e Javascript para o Browser ou outra interpretador de HTML representar.
 
 ## Pre-requisitos
 Para poder utilizar esta biblioteca escrita em javascript, é necessário ter algum compilador de javascript na máquina. Como o Javascript é desenvolvido por Browsers, para poder criar uma aplicação num contexto externo a ele, foi instalado o Node.js (Consiste em uma implementação da engine de Javascript do Chrome para o desktop).
@@ -35,55 +40,25 @@ Para verificar se foi instalado corretamente, rode "node -v" no terminal, onde d
 
 ## Instalando a Biblioteca
 O Node.js vem com um administrador de pacotes (npm), através do qual consegue baixar bibliotecas e suas dependências.
-Para instalar o Next.js, apenas caso esteja criando um novo projeto basta:
+Para instalar o Next.js, apenas caso esteja criando um novo projeto, basta escrever (no prompt de comando) na pasta em que deseja desenvolver seu aplicativo:
 
-$$npm install react react-dom next$$
+> npm install react react-dom next
 
-# Tutorial:
- Para colocar o programa para rodar, é necessário:
- 
-  1- Instale o interpretador python e adicione python nas variáveis de ambiente. 
+Para códigos já prontos, para obter todas bibliotecas utilizadas, basta escrever no prompt de comando, na pasta onde tiver o aplicativo (ou seja, onde tiver o package.json) o seguitne comando:
 
-  2- No ambiente com python instalado, instale a biblioteca kivy com o comando:  "python -m pip install kivy"
-    
-  3- No ambiente com python instalado, instale a biblioteca PIL com o comando: "python -m pip install pillow"
+> npm install
 
-  4- Baixe o programa e rode o arquivo main: estando no diretório dos arquivos baixados execute o comando “python main.py”
+Ao rodar, um dos códigos acima, perceberá uma pasta "node_modules", onde estão armazenadas todas bibliotecas instaladas.
+
+# Esboço GUI Projeto
+
+# Rodando o código:
+  1- Caso não tenha feito, baixe as bibliotecas necessárias, rodando no terminal, na pasta "App":
+	> npm install
+  2- Iniciar o servidor Next.js:
+  	> npm run dev
+  3- No terminal, será apresentado o "url" para acessar o aplicativo. Normalmente é "http://localhost:3000".
+
+  4- Acesse o URL, utilizando algum Browser ou interpretador. Ex: Chrome.
   
-Como mencionado acima, a biblioteca utilizada para interface gráfica é a kivy.
-
-# Esboço:
-
-A pagina inicial do app é demonstrada abaixo:
-
-![pagina_inicial](https://user-images.githubusercontent.com/115323969/200091292-603558ae-2952-4572-9d5a-2d30426ad7c7.png)
-
-
-
-Com app aberto, o usuário deve selecionar uma imagem a seu critério. para fins de demonstração, será realizada a ocultação 
-de uma mensagem e em seguida revelada. Abaixo, encontra-se o app com a imagem selecionada. Para este exemplo, foi utilizada 
-uma imagem com a fachada do IME.
-
-![escolha_da_imagem](https://user-images.githubusercontent.com/115323969/200091373-e0dc0282-97dd-445b-bbdf-2dad67abe798.png)
-
-
-Digitação da senha e da mensagem a ser ocultada.
-
-![imagem_oculta](https://user-images.githubusercontent.com/115323969/200091384-06780001-bc56-45c4-95f5-423c9a77722b.png)
-
-
-Após ocultar uma imagem, o app salva como uma nova imagem, no local de arquivo onde se encontra a imagem original,
-uma nova imagem cujo nome será "nomeoriginalv2.png". Tal ocorrência é verificada abaixo.
-
-![pasta_nv_img](https://user-images.githubusercontent.com/115323969/200091391-837662d2-1443-43c7-a4b7-76b7525fc412.png)
-
-
-Para revelar a mensagem, basta selecionar a imagem que contem a mensagem oculta e utilizar a mesma senha a qual 
-foi utilizada para ocultar a mensagem como pode ser visto a seguir:
-
-![revelar](https://user-images.githubusercontent.com/115323969/200091400-84aa189d-e53a-4a0a-90d5-054a791581c7.png)
-
-Assim, obtém-se a mensagem revelada.
-
-![msg_revelada](https://user-images.githubusercontent.com/115323969/200091409-8534c78f-dd63-48cd-97b7-efe861718562.png)
-
+  5- Como aplicativo utiliza armazenamento na nuvem e para realizar o login e poder utilizar o aplicativo é necessário ter acesso a internet (serviço do Firebase).
