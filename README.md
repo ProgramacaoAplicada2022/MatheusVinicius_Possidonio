@@ -27,6 +27,11 @@ A motivação para o desenvolvimento desse aplicativo vem da dificuldade de cont
 
 ![image](https://user-images.githubusercontent.com/115589012/205313477-4ddd47b9-57c7-40ea-9596-474358333ab6.png)
 
+Note que no fluxograma há uma divisão bem clara entre dois processos do aplicativo:
+
+1) Fase de Login e Cadastro: Nesta, o usuário deve inserir determinadas informações para ter acesso ao aplicativo. Inclusive, na aplicação web, é possível também realizarmos a entrada por meio das contas Google. 
+
+2) Fase de Adicionar Treino e Classificar Treino: Nesta, o usuário deve inserir o tipo de treino desejado, com sua respectiva descrição. Além disso, é possível determinar o status do treino como Concluído ou Pendente. 
 
 ## Diagrama de classes:
 
