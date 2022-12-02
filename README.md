@@ -23,6 +23,16 @@ A motivação para o desenvolvimento desse aplicativo vem da dificuldade de cont
 
 # Diagrama de Classes e Relacionamentos
 
+## Fluxograma:
+
+![image](https://user-images.githubusercontent.com/105819232/205303050-a57f3cad-8223-42ca-9ffc-38699e86cc65.png)
+
+
+## Diagrama de classes:
+
+![image](https://user-images.githubusercontent.com/105819232/205302985-f2b6a5b7-d487-4067-9145-a45dc5354cb9.png)
+
+
 # Repositório do Projeto
 
 É este que se encontra :)
