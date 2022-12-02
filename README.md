@@ -84,6 +84,18 @@ O treino será adicionado como PENDENTE e aparecerá uma mensagem indicando que 
 O treino também pode ser marcado como completado, aparecendo uma mensagem indicando que o treino foi completado, bastando clicar na alavanca gráfica localizada ao lado de "pendente", podendo também desmarcar a opção de completado desativando a mesma alavanca:
 ![image](https://user-images.githubusercontent.com/105819232/205306305-b03596bf-0d1c-4617-8a06-22495f103891.png)
 
+O treino pode ser ainda deletado clicando na opção de deletar, indicada como uma lixeira vermelha dentro da box do treino adicionado, precisando ainda confirmar que deseja deletar o treino na box que aparecerá, após o treino ser deletado aparecerá a mensagem indicada na segunda imagem abaixo anexada:
+![image](https://user-images.githubusercontent.com/105819232/205307953-0a952151-b23b-46f5-8fce-45be22f36dbd.png)
+![image](https://user-images.githubusercontent.com/105819232/205308158-87b07cf4-92a8-4fad-96f9-c25954416de3.png)
+
+
+O projeto pode ainda ser colocado no modo escuro ou modo claro, bastando clicar, acima do login, na opção de "Lua" ou de "Sol" para alternar o tema da aplicação:
+![image](https://user-images.githubusercontent.com/105819232/205308602-4ec7c63e-456c-4dc9-884b-a4d115956704.png)
+
+Além disso, para fazer o logout, basta clicar na opção de logut, indicada em vermelho.
+
+
+
 
 
 
