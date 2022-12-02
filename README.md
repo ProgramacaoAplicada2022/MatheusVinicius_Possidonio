@@ -90,6 +90,7 @@ O treino pode ser ainda deletado clicando na opção de deletar, indicada como u
 
 
 O projeto pode ainda ser colocado no modo escuro ou modo claro, bastando clicar, acima do login, na opção de "Lua" ou de "Sol" para alternar o tema da aplicação:
+
 ![image](https://user-images.githubusercontent.com/105819232/205308602-4ec7c63e-456c-4dc9-884b-a4d115956704.png)
 
 Além disso, para fazer o logout, basta clicar na opção de logut, indicada em vermelho.
@@ -113,3 +114,7 @@ Além disso, para fazer o logout, basta clicar na opção de logut, indicada em 
 4- Acesse o URL, utilizando algum Browser ou interpretador. Ex: Chrome.
   
 5- Como aplicativo utiliza armazenamento na nuvem e para realizar o login e poder utilizar o aplicativo é necessário ter acesso a internet (serviço do Firebase).
+
+# Código Funcional do Projeto
+
+O código funcional já se encontra na pasta "App" presente na documentação.
